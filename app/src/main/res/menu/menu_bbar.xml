@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/m_add_photo"
+        android:icon="@drawable/ic_assessment"
+        android:title="Añadir foto"
+        android:onClick="Evaluate"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/m_search"
+        android:icon="@drawable/ic_notifications"
+        android:title="Buscar"
+        android:onClick="search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/m_editar"
+        android:icon="@drawable/ic_profile"
+        android:title="Editar"
+        android:onClick="profile"
+        app:showAsAction="ifRoom" />
+
+
+
+
+
+</menu>

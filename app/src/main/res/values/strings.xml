@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">SHS Personal Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="text_please_wait">Uploading…</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_register">REGISTER HERE</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <string name="question1a"> expend energy, enjoy groups</string>
+    <string name="question1b"> conserve energy, enjoy one-on-one</string>
+    <string name="question2a"> interpret literally</string>
+    <string name="question2b"> look for meaning and possibilities</string>
+    <string name="question3a"> logical, thinking, questioning</string>
+    <string name="question3b"> empathetic, feeling, accommodating</string>
+    <string name="question4a"> organized, orderly</string>
+    <string name="question4b"> flexible, adaptable</string>
+    <string name="question5a"> more outgoing, think out loud</string>
+    <string name="question5b"> more reserved, think to yourself</string>
+    <string name="question6a"> practical, realistic, experiential</string>
+    <string name="question6b"> imaginative, innovative, theoretica</string>
+    <string name="question7a"> candid, straight forward, frank</string>
+    <string name="question7b"> tactful, kind, encouraging</string>
+    <string name="question8a"> plan, schedule</string>
+    <string name="question8b"> unplanned, spontaneous</string>
+    <string name="question9a"> seek many tasks, public activities, interaction with others</string>
+    <string name="question9b"> seek private, solitary activities with quiet to concentrate</string>
+    <string name="question10a"> standard, usual, conventional</string>
+    <string name="question10b"> different, novel, unique</string>
+    <string name="question11a"> firm, tend to criticize, hold the line</string>
+    <string name="question11b"> gentle, tend to appreciate, conciliate</string>
+    <string name="question12a"> regulated, structured</string>
+    <string name="question12b"> easy going, “live” and “let live”</string>
+    <string name="question13a"> external, communicative, express yourself</string>
+    <string name="question13b"> internal, reticent, keep to yourself</string>
+    <string name="question14a"> focus on here-and-now</string>
+    <string name="question14b"> look to the future, global perspective, “big picture”</string>
+    <string name="question15a"> tough-minded, just</string>
+    <string name="question15b"> tender-hearted, merciful</string>
+    <string name="question16a"> preparation, plan ahead</string>
+    <string name="question16b"> go with the flow, adapt as you go</string>
+    <string name="question17a"> active, initiate</string>
+    <string name="question17b"> reflective, deliberate</string>
+    <string name="question18a"> facts, things, “what is”</string>
+    <string name="question18b"> ideas, dreams, “what could be,” philosophical</string>
+    <string name="question19a"> matter of fact, issue-oriented </string>
+    <string name="question19b"> sensitive, people-oriented, compassionate</string>
+    <string name="question20a"> control, govern</string>
+    <string name="question20b"> latitude, freedom</string>
+
+    <string name="evaluationB3">3. The students prior knowledge, perceptions and experience about the topic are elicited.</string>
+    <string name="evaluationB4">4. The students are encouraged to explain their ideas or ask questions about the topic.</string>
+    <string name="evaluationB5">5. Thought-provoking questions are asked.</string>
+    <string name="evaluationB6">6. Variety of activities and learning resources including technology are utilized.</string>
+    <string name="evaluationB7">7. Opportunities for meaningful interaction and collaboration with one another are provided.</string>
+    <string name="evaluationB8">8. Varied formative assessment tools and strategies are used.</string>
+    <string name="evaluationB9">9. Opportunities for students to relate or compare their prior knowledge with new knowledge are provided.</string>
+    <string name="evaluationB10">10. The students are asked to share their learning difficulties.</string>
+    <string name="evaluationB11">11. Appropriate values are integrated.</string>
+    <string name="evaluationB12">12. The students are active and engaged with different learning task</string>
+    <string name="evaluationB13">13. The students demonstrates mastery of the lesson.</string>
+    <string name="evaluationB14">14. The students are able to relate the new knowledge in their daily life.</string>
+
+    <string name="teacher_evaluationA1">1. Seems to have a very good knowledge he/she teaches.</string>
+    <string name="teacher_evaluationA2">2. Is organised and prepared for class.</string>
+    <string name="teacher_evaluationA3">3. Uses learning materials like pictures, chart, illustrations etc to help students to understand the lesson</string>
+    <string name="teacher_evaluationA4">4. Adjust her/his ways of teaching to the students learning abilities.</string>
+    <string name="teacher_evaluationB1">5. Shows enthusiasm about the subject he/she teaches.</string>
+    <string name="teacher_evaluationB2">6. Helps students to think independently</string>
+    <string name="teacher_evaluationB3">7.Uses a variety of teaching styles and techniques.</string>
+    <string name="teacher_evaluationB4">8. Makes sure that the class lessons and discussions are interesting, enjoyable, worthwhile and challenging.</string>
+    <string name="teacher_evaluationB5">9. Let students tell him/her what they think or feel about the lessons.</string>
+    <string name="teacher_evaluationB6">10. Gives favorable and encouraging comments when students give correct answers or good ideas.</string>
+    <string name="teacher_evaluationC1">11. Speaks fluently and clearly.</string>
+    <string name="teacher_evaluationC2">12. Starts and ends classes on time</string>
+    <string name="teacher_evaluationC3">13. Establishes clear guidelines for quizzes and test papers.</string>
+    <string name="teacher_evaluationC4">14. Promptly informs the students of the results of tests and assignments.</string>
+    <string name="teacher_evaluationC5">15.  Grades students fairly, based on how much they have actually learned or done.</string>
+    <string name="teacher_evaluationC6">16. Sees to it that all students obeys school rules and regulations.</string>
+    <string name="teacher_evaluationC7">17. Maintains a reasonable level of order and discipline in the class.</string>
+    <string name="teacher_evaluationC8">18. Makes sure that the classroom is always clean and orderly.</string>
+    <string name="teacher_evaluationD1">19. Makes the students feel free to ask questions.</string>
+    <string name="teacher_evaluationD2">20. Is fair with dealing with the students.</string>
+    <string name="teacher_evaluationD3">21. Is available to students for guidance and assistance, even outside class time.</string>
+    <string name="teacher_evaluationD4">22. Shows a personal interest in the students progress and success.</string>
+    <string name="teacher_evaluationD5">23. Reminds students about proper behavior at times.</string>
+    <string name="teacher_evaluationD6">24. Is pleasant, patient, amiable and mid-tempered.</string>
+    <string name="teacher_evaluationD7">25.He/she helps us to become a good Christian or closer to God.</string>
+    <string name="teacher_evaluationD8">26. Reminds student of their responsibilities as good and worthy members of the community</string>
+    <string name="teacher_evaluationD9">27. He/she helps us enjoy studying and going to school</string>
+    <string name="teacher_evaluationD10">28. Things I like about this teacher are:</string>
+    <string name="teacher_evaluationD11">29. Things I don`t like about this teacher are:</string>
+
+    <string name="evaluation_group_titleA">Knowledge of subject and teaching style</string>
+    <string name="evaluation_group_titleB">Interest and stimulation</string>
+    <string name="evaluation_group_titleC">C. Class management and organization</string>
+    <string name="evaluation_group_titleD">Teacher-students relationship</string>
+
+    <string name="count1">1</string>
+    <string name="count2">2</string>
+    <string name="count3">3</string>
+    <string name="count4">4</string>
+    <string name="count5">5</string>
+    <string name="count6">6</string>
+    <string name="count7">7</string>
+    <string name="count8">8</string>
+    <string name="count9">9</string>
+    <string name="count10">10</string>
+    <string name="count11">11</string>
+    <string name="count12">12</string>
+    <string name="count13">13</string>
+    <string name="count14">14</string>
+    <string name="count15">15</string>
+    <string name="count16">16</string>
+    <string name="count17">17</string>
+    <string name="count18">18</string>
+    <string name="count19">19</string>
+    <string name="count20">20</string>
+
+    <string name="input_school"> Please Input previous School/University</string>
+    <string name="input_hobbies"> Please Input your hobbies </string>
+    <string name="input_profession"> Please Input your degree </string>
+    <string name="input_address"> Please Input address </string>
+
+
+    <string name="submit_button">Submit</string>
+    <string name="cancel_button">Cancel</string>
+    <string-array name="nature_of_leave_value">
+        <item>Vacation</item>
+        <item>Maternity</item>
+        <item>Sick Leave</item>
+        <item>Paternity</item>
+        <item>Others</item>
+    </string-array>
+</resources>
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#4FC3F7</color>
+    <color name="colorPrimaryDark">#29B6F6</color>
+    <color name="colorAccent">#F54D02</color>
+    <color name="canvasColor">#03A9F4</color>
+    <color name="indigo">#17071F</color>
+    <color name="gray">#C2BFBF</color>
+    <color name="radarColorBackground">#FFFFFF</color>
+    <color name="radarColor">#2EB60D</color>
+    <color name="radarFillColor">#39FF00</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="header">#FF6D00</color>
+    <color name="subHeader">#9E9E9E</color>
+    <color name="cardcolor">#B4F5FF</color>
+</resources>
